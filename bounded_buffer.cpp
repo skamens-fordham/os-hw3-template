@@ -92,8 +92,7 @@ void * consumer(void * arg)
         // The item that will be consumed
         int item;
         
-        // TODO: "Produce" an item by generating a random number between 1 and 100 and 
-        //       assigning it to "item"
+        // TODO: "Consume" an item by retrieving the next item from the buffer.
 
         
 
