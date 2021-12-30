@@ -50,7 +50,7 @@ $
 ## Completing the Assignment
 To complete the assignment, follow the same steps that you did in [Assignment 2](https://github.com/skamens-fordham/os-hw2-template/blob/main/README.md):
 
-1. Accept the assignment in Github Classroom via [this link](https://classroom.github.com/a/XtK7_NfA)
+1. Accept the assignment in Github Classroom via [this link](https://classroom.github.com/a/15DDe0_U)
 2. Clone your repository to your local machine
 3. Implement the code, following the instructions in the file `bounded_buffer.cpp`
 4. Compile and test your program. 
